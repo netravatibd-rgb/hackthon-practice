@@ -1,10 +1,18 @@
 # Our Hackathon Team
 
-- Member 1: Frontend
-- Member 2: Backend
-- Member 3: Database
-- Member 4: Testing and Integration
 
-
-
-- GitHub practice: First branch created successfully!
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>My First Hackathon Project</title>
+</head>
+<body>
+  <h1>Hello, Hackathon Team!</h1>
+  <p>My first webpage is working!</p>
+  <button onclick="alert('We did it!')">
+    Click Me
+  </button>
+</body>
+</html>
