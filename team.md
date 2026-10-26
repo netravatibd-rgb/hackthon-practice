@@ -1,4 +1,0 @@
-- Netravati : Frontend
-- Daneshwari : Backend
-- Meghana : Database
-- Bhoomika : Testing and Integration
